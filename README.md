@@ -85,9 +85,4 @@ Here's an example of two events by the same user:
 
 Once again, you want to create a visualization that answers: what segments of users would be interested in the bicycle project? Based on your visualization, BootLoader would send a push notification to those segments that advertises the bicycle project.
 
-You can create any kind of visualization that you think best answers the question. e.g. static or interactive, using HTML5 or python. Feel free to use any tools you're familiar with, or try out that new data viz library you heard so much about.
-
-To submit your visualization, star and fork the data viz challenge repo on Github here https://github.com/localytics/data-viz-challenge. This github repository also contains the JSON data. Submit a pull request when your submission is ready with some instructions on how to run your code or a link to a hosted version. Submit an issue on Github with any questions you have, or email dthompson@localytics.com.
-
-While our prize pool challenge ended December 1st, 2014, feel free to continue submissions, as Localytics is always looking for new talents and ideas in the field of data viz. If you'd like to see our winner, feel free to take a look here at http://domajno.github.io/data-viz-challenge/
 
